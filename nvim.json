@@ -1,0 +1,8 @@
+{
+  "name": "Neovim",
+  "id": "nvim",
+  "url": "https://github.com/neovim/neovim/releases/download/v0.11.3/nvim-win64.msi",
+  "version": "0.11.3",
+  "type": "msi",
+  "silent": "/qn"
+}

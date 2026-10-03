@@ -1,0 +1,11 @@
+{
+  "name": "Visual Studio Code",
+  "id": "vscode",
+  "version": "1.0.0",
+  "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/360a4e4fd251bfce169a4ddf857c7d25d1ad40da/VSCodeUserSetup-x64-1.103.1.exe",
+  "type": "exe",
+  "installer": "inno",
+  "silent": "/S",
+  "uninstaller": "C:\\Program Files\\pkg\\unins000.exe",
+  "untype": "nsis"
+}

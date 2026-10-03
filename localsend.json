@@ -1,0 +1,9 @@
+{
+  "name": "Localsend",
+  "id": "localsend",
+  "url": "https://github.com/localsend/localsend/releases/download/v1.17.0/LocalSend-1.17.0-windows-x86-64.exe",
+  "version": "1.17.0",
+  "type": "exe",
+  "installer": "inno",
+  "silent": ""
+}

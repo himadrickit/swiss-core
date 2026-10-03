@@ -1,0 +1,8 @@
+{
+  "name": "Obsidian",
+  "id": "obsidian",
+  "url": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.10/Obsidian-1.8.10.exe",
+  "version": "1.8.10",
+  "type": "exe",
+  "silent": "/S"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Microsoft Powertoys",
+  "id": "powertoys",
+  "url": "https://github.com/microsoft/PowerToys/releases/download/v0.91.1/PowerToysUserSetup-0.91.1-x64.exe",
+  "version": "0.91.1",
+  "type": "exe",
+  "silent": "/quiet /norestart"
+}

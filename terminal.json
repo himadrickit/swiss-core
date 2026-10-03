@@ -1,0 +1,11 @@
+{
+  "name": "Windows Terminal",
+  "id": "terminal",
+  "version": "1.23.12811.0",
+  "url": "https://github.com/microsoft/terminal/releases/download/v1.23.12811.0/Microsoft.WindowsTerminal_1.23.12811.0_8wekyb3d8bbwe.msixbundle",
+  "type": "appx",
+  "installer": "msix",
+  "silent": "",
+  "uninstaller": "C:\\Program Files\\pkg\\unins000.exe",
+  "untype": "nsis"
+}

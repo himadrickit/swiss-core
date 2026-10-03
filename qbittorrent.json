@@ -1,0 +1,9 @@
+{
+  "name": "qBittorrent",
+  "id": "qbittorrent",
+  "url": "https://sourceforge.net/projects/qbittorrent/files/qbittorrent-win32/qbittorrent-5.1.0/qbittorrent_5.1.0_x64_setup.exe/download",
+  "version": "5.1.0",
+  "type": "exe",
+  "installer": "nsis",
+  "silent": ""
+}

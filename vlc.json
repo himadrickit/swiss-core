@@ -1,0 +1,8 @@
+{
+  "name": "VLC Media Player",
+  "id": "vlc",
+  "url": "https://mirror.del.albony.in/videolan-ftp/vlc/3.0.21/win64/vlc-3.0.21-win64.exe",
+  "version": "3.0.21",
+  "type": "exe",
+  "silent": "/S"
+}

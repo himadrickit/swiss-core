@@ -1,0 +1,11 @@
+{
+  "name": "qimgv",
+  "id": "qimgv",
+  "version": "1.0.2",
+  "url": "https://github.com/easymodo/qimgv/releases/download/v1.0.2/qimgv-x64_1.0.2.exe",
+  "type": "exe",
+  "installer": "inno",
+  "silent": "",
+  "uninstaller": "C:\\Program Files\\qimgv\\unins000.exe",
+  "untype": "nsis"
+}

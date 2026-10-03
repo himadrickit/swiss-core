@@ -1,0 +1,11 @@
+{
+  "name": "Docker",
+  "id": "Docker",
+  "version": "7",
+  "url": "https://desktop.docker.com/win/main/amd64/233772/Docker%20Desktop%20Installer.exe",
+  "type": "exe",
+  "installer": "nsis",
+  "silent": "/S",
+  "uninstaller": "C:\\Program Files\\pkg\\unins000.exe",
+  "untype": "nsis"
+}
